@@ -2,7 +2,7 @@
 
 A Bash script to automate the compilation and execution of Flex (Lex) programs.
 
-![Example Output](1.JPG)
+![Example Output](test_image.JPG)
 
 ## Description
 
